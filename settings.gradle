@@ -1,1 +1,1 @@
-include ':app', ':优酷菜单', ':TextView滚动（跑马灯）', ':ListView侧滑删除', ':viewpager左右滑动+小圆点', ':自定义界面按压出现水波纹'
+include ':app', ':优酷菜单', ':TextView滚动（跑马灯）', ':ListView侧滑删除', ':viewpager左右滑动+小圆点', ':自定义界面按压出现水波纹', ':圆形图像'
